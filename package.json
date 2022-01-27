@@ -1,6 +1,10 @@
 {
 	"name": "makethemsayit",
 	"version": "0.0.1",
+	"engines": {
+		"node": ">=16",
+		"npm": ">=7.18"
+	},
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
